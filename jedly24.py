@@ -10,4 +10,4 @@ with open(fname, 'r') as f:
                     k=k+1
 print("Occurrences of blank spaces:")
 print(k)
-fgfdg
+
