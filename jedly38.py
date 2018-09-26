@@ -6,4 +6,4 @@ for n in range(num):
     lst.append(numbers)
 
 print("Maximum element in the list is :", max(lst), "\nMinimum element in the list is :", min(lst))
-dfs
+
