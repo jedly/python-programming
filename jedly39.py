@@ -7,4 +7,4 @@ for n in range(num):
 
 avg = total_sum/num
 print('Average of ', num, ' numbers is :', avg)
-bhfc
+
