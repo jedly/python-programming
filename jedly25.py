@@ -5,4 +5,4 @@ with open(fname, 'r') as f:
         num_lines += 1
 print("Number of lines:")
 print(num_lines)
-bn
+
