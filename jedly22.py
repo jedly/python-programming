@@ -4,4 +4,4 @@ def main():
     for x in full_name:
         total += len(x)
     print(total)
-    gfgfgt
+
