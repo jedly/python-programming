@@ -1,10 +1,10 @@
-a = 10
+c = 10
 b = 20
  
-print("before swapping\na=", a, " b=", b)
+print("before swapping\na=", c, " b=", b)
  
-temp = a
-a = b
+temp = c
+c = b
 b = temp
  
-print("\nafter swapping\na=", a, " b=", b)
+print("\nafter swapping\na=", c, " b=", b)
