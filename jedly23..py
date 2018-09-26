@@ -9,4 +9,4 @@ print("Number of words in the string:")
 print(word)
 print("Number of characters in the string:")
 print(char)
-dsf
+
