@@ -6,4 +6,4 @@ while(n>0):
     tot=tot+dig
     n=n//10
 print("The total sum of digits is:",tot)
-sd
+
