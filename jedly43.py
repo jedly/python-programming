@@ -1,3 +1,3 @@
-n = "I am testing"
-for x in n.split():
+a = "I am testing"
+for x in a.split():
     print x
