@@ -9,4 +9,4 @@ def validateString(s):
     return letter_flag and number_flag
 print validateString('hasAlphanum23')
 print validateString('some string')
-ghfd
+
